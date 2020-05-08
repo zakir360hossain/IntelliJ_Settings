@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-04-06T23:12:57</property>
+    <property name="modified">2020-05-07T22:49:17</property>
     <property name="originalScheme">Monokai</property>
     <property name="vendorMail" />
     <property name="vendorName">Color Theme</property>
@@ -866,7 +866,7 @@
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="a29e89" />
+        <option name="FOREGROUND" value="b1ad99" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -942,11 +942,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
