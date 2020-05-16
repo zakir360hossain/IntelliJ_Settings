@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Concept" type="PLAIN_TEXT" />
+      <mapping pattern="concept" type="PLAIN_TEXT" />
       <mapping pattern="Naming Convention" type="PLAIN_TEXT" />
       <mapping pattern="SOLID" type="PLAIN_TEXT" />
       <mapping pattern="define" type="PLAIN_TEXT" />
